@@ -1,29 +1,52 @@
 {
-  "app_name": "Panduan Shalat Lengkap",
+  "title": "Panduan Shalat Lengkap",
 
   "ads": {
     "show_banner": true,
     "show_interstitial": true,
-    "interval": 3
+    "interstitial_interval": 3
   },
 
-  "guides": [
+  "categories": [
 
     {
-      "title": "Shalat Subuh",
+      "id": 1,
+      "name": "Subuh",
+      "slug": "subuh",
 
-      "image": "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/main/images/subuh.jpg",
-
-      "content": "Panduan lengkap shalat subuh."
-    },
-
-    {
-      "title": "Shalat Dzuhur",
-
-      "image": "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/main/images/dzuhur.jpg",
-
-      "content": "Panduan lengkap shalat dzuhur."
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/main/masjid_subuh.webp"
     }
 
-  ]
+  ],
+
+  "contents": [
+
+    {
+      "id": 1,
+
+      "categories": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "Niat Sholat",
+
+      "description":
+        "Panduan niat sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/main/berdiri.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/main/html/sample_guide6.html"
+    }
+
+  ],
+
+  "privacy_policy":
+    "https://yourwebsite.com/privacy-policy.html"
 }
