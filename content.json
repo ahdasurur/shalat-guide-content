@@ -1,0 +1,29 @@
+{
+  "app_name": "Panduan Shalat Lengkap",
+
+  "ads": {
+    "show_banner": true,
+    "show_interstitial": true,
+    "interval": 3
+  },
+
+  "guides": [
+
+    {
+      "title": "Shalat Subuh",
+
+      "image": "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/main/images/subuh.jpg",
+
+      "content": "Panduan lengkap shalat subuh."
+    },
+
+    {
+      "title": "Shalat Dzuhur",
+
+      "image": "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/main/images/dzuhur.jpg",
+
+      "content": "Panduan lengkap shalat dzuhur."
+    }
+
+  ]
+}
