@@ -1,1 +1,0 @@
-# shalat-guide-content
