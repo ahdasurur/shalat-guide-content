@@ -99,6 +99,50 @@
 
       "content":
         "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/berdiri.html"
+    },
+    {
+      "id": 3,
+
+      "categories": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "Takbir",
+
+      "description":
+        "bacaan takbir sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/takbir.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir.html"
+    },
+    {
+      "id": 4,
+
+      "categories": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "Rukuk",
+
+      "description":
+        "bacaan rukuk sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/rukuk.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/rukuk.html"
     }
 
 
