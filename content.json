@@ -8,32 +8,50 @@
   },
 
   "categories": [
+
     {
       "id": 1,
       "name": "Subuh",
-      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20subuh.webp"
-    },
+      "slug": "subuh",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/masjid%20subuh.webp"
+    }
     {
       "id": 2,
       "name": "Dzuhur",
-      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20dzuhur.jpg"
-    },
+      "slug": "Dzuhur",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/masjid%20dzuhur.jpg"
+    }
     {
       "id": 3,
       "name": "Ashar",
-      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20ashar.jpg"
-    },
+      "slug": "Ashar",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/masjid%20ashar.jpg"
+    }
     {
       "id": 4,
       "name": "Maghrib",
-      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20maghrib.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Isya",
-      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20isya.jpg"
+      "slug": "Maghrib",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/masjid%20maghrib.jpg"
     }
+    {
+      "id": 1,
+      "name": "Isya",
+      "slug": "Isya",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/masjid%20isya.jpg"
+    }
+
   ],
+
   "contents": [
 
     {
@@ -56,7 +74,7 @@
         "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/berdiri.png",
 
       "content":
-        "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide6.html"
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/niat.html"
     }
     {
       "id": 2,
@@ -69,18 +87,18 @@
         "Isya"
       ],
 
-      "title": "Iftittah",
+      "title": "iftittah",
 
       "description":
-        "Panduan iftittah sholat lengkap.",
+        "bacaan iftitah sholat lengkap.",
 
       "image":
-        "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/berdiridoa.png",
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/berdiridoa.png",
 
       "content":
-        "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide7.html"
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/berdiri.html"
     }
-    
+
 
   ],
 
