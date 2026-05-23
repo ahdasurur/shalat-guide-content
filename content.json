@@ -3,10 +3,10 @@
   "title": "Panduan Shalat Lengkap",
 
   "ads": {
-"show_banner": false,
-"show_native": false,
-"show_interstitial": false,
-"show_open_ads": false
+"show_banner": true,
+"show_native": true,
+"show_interstitial": true,
+"show_open_ads": true
   },
 
   "categories": [
