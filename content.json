@@ -6,7 +6,9 @@
 "show_banner": true,
 "show_native": true,
 "show_interstitial": true,
-"show_open_ads": true
+"show_open_ads": true,
+"interstitial_interval": 2,
+"open_ads_cooldown": 30
   },
 
   "categories": [
