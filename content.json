@@ -58,6 +58,29 @@
       "content":
         "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide6.html"
     }
+    {
+      "id": 2,
+
+      "categories": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "Iftittah",
+
+      "description":
+        "Panduan iftittah sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/berdiridoa.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/html/sample_guide7.html"
+    }
+    
 
   ],
 
