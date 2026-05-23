@@ -8,18 +8,32 @@
   },
 
   "categories": [
-
     {
       "id": 1,
       "name": "Subuh",
-      "slug": "subuh",
-
-      "image":
-        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/masjid%20subuh.webp"
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20subuh.webp"
+    },
+    {
+      "id": 2,
+      "name": "Dzuhur",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20dzuhur.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ashar",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20ashar.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Maghrib",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20maghrib.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Isya",
+      "image": "https://raw.githubusercontent.com/ahdasurur/CuandoSholat/refs/heads/main/masjid%20isya.jpg"
     }
-
   ],
-
   "contents": [
 
     {
