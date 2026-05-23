@@ -18,7 +18,7 @@
 
       "image":
         "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/masjid%20subuh.webp"
-    }
+    },
     {
       "id": 2,
       "name": "Dzuhur",
@@ -26,7 +26,7 @@
 
       "image":
         "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/masjid%20dzuhur.jpg"
-    }
+    },
     {
       "id": 3,
       "name": "Ashar",
@@ -34,7 +34,7 @@
 
       "image":
         "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/masjid%20ashar.jpg"
-    }
+    },
     {
       "id": 4,
       "name": "Maghrib",
@@ -42,9 +42,9 @@
 
       "image":
         "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/masjid%20maghrib.jpg"
-    }
+    },
     {
-      "id": 1,
+      "id": 5,
       "name": "Isya",
       "slug": "Isya",
 
