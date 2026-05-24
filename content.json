@@ -145,11 +145,102 @@
 
       "content":
         "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/rukuk.html"
-    }
+    }.
+
+  {
+      "id": 5,
+
+      "categories": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "Takbir",
+
+      "description":
+        "bacaan takbir sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/takbir.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir%20setelah%20rukuk.html"
+    },
+    {
+      "id": 6,
+
+      "categories": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "I'tidal",
+
+      "description":
+        "bacaan i'tidal sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/berdiri.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/Al-Fatihah.txt"
+    },
+    {
+      "id": 5,
+
+      "categories": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "Takbir",
+
+      "description":
+        "bacaan takbir sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/takbir.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir%20setelah%20rukuk.html"
+    },
+    {
+      "id": 5,
+
+      "categories": [
+        "Subuh",
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "Takbir",
+
+      "description":
+        "bacaan takbir sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/takbir.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir%20setelah%20rukuk.html"
+    },
+    
 
 
-  ],
+  
 
   "privacy_policy":
     "https://yourwebsite.com/privacy-policy.html"
 }
+
