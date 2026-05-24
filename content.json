@@ -146,8 +146,7 @@
       "content":
         "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/rukuk.html"
     },
-
-  {
+    {
       "id": 5,
 
       "categories": [
@@ -235,6 +234,7 @@
       "content":
         "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir%20setelah%20rukuk.html"
     },
+  ]
     
 
 
