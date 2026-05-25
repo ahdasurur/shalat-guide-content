@@ -774,8 +774,537 @@
 
       "content":
         "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/surat%20pendek%202.html"
+    },
+     {
+      "id": 34,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "takbir",
+
+      "description":
+        "bacaan takbir sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/takbir.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir.html"
+    }
+     {
+      "id": 35,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "rukuk",
+
+      "description":
+        "bacaan rukuk sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/rukuk.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/rukuk.html"
+    }
+     {
+      "id": 36,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "i'tidal",
+
+      "description":
+        "bacaan i'tidal sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/berdiri.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/berdiri%20setelah%20rukuk.html"
+    }
+     {
+      "id": 37,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "takbir setelah i'tidal",
+
+      "description":
+        "bacaan takbir setelah i'tidal sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/berdiri.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir.html"
+    }
+     {
+      "id": 38,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "sujud",
+
+      "description":
+        "bacaan sujud sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/sujud.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/sujud.html"
+    }
+    {
+      "id": 39,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "takbir",
+
+      "description":
+        "bacaan takbir sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/sujud.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir.html"
+    }
+    {
+      "id": 40,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "duduk diantara dua sujud",
+
+      "description":
+        "bacaan duduk diantar dua sujud sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/duduk%20diantara%20dua%20sujud.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/duduk%20diantara%20dua%20sujud.html"
+    }
+    {
+      "id": 41,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "takbir",
+
+      "description":
+        "bacaan takbir sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/duduk%20diantara%20dua%20sujud.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir.html"
+    }
+    {
+      "id": 42,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "sujud",
+
+      "description":
+        "bacaan sujud sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/sujud.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/sujud.html"
+    }
+    {
+      "id": 43,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Maghrib",
+        "Isya"
+      ],
+
+      "title": "takbir",
+
+      "description":
+        "bacaan takbir sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/sujud.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir.html"
+    }
+    {
+      "id": 44,
+
+       "categories": [
+        "Maghrib",
+        
+      ],
+
+      "title": "tahiyat akhir",
+
+      "description":
+        "bacaan tahiyat akhir sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/tahiyat.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/tahiyat%20akhir.html"
+    }
+    {
+      "id": 45,
+
+       "categories": [
+        "Maghrib",
+        
+      ],
+
+      "title": "salam",
+
+      "description":
+        "bacaan salam sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/salam.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/salam.html"
+    }
+    {
+      "id": 46,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "berdiri doa",
+
+      "description":
+        "bacaan Al-fatihah sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/berdiridoa.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/Al-Fatihah.html"
+    }
+    {
+      "id": 47,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "berdiri doa",
+
+      "description":
+        "bacaan surat pendek sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/berdiridoa.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/surat%20pendek%203.html"
+    }
+    {
+      "id": 48,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "takbir",
+
+      "description":
+        "bacaan takbir doa sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/takbir.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir.html"
+    }
+    {
+      "id": 49,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "rukuk",
+
+      "description":
+        "bacaan rukuk doa sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/rukuk.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/rukuk.html"
+    }
+    {
+      "id": 50,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "i'tidal",
+
+      "description":
+        "bacaan i'tidal sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/berdiri.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/berdiri%20setelah%20rukuk.html"
+    }
+    {
+      "id": 51,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "takbir setelah i'tidal",
+
+      "description":
+        "bacaan takbir setelah i'tidal sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/takbir.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir.html"
+    }
+    {
+      "id": 52,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "sujud",
+
+      "description":
+        "bacaan sujud sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/sujud.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/sujud.html"
+    }
+    {
+      "id": 53,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "takbir",
+
+      "description":
+        "bacaan takbir sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/sujud.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir.html"
+    }
+    {
+      "id": 54,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "duduk diantar dua sujud",
+
+      "description":
+        "bacaan duduk diantara dua sujud sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/duduk%20diantara%20dua%20sujud.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/duduk%20diantara%20dua%20sujud.html"
+    }
+    {
+      "id": 55,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "takbir",
+
+      "description":
+        "bacaan takbir sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/duduk%20diantara%20dua%20sujud.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir.html"
+    }
+    {
+      "id": 56,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "sujud",
+
+      "description":
+        "bacaan sujud sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/sujud.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/sujud.html"
+    }
+    {
+      "id": 57,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "takbir",
+
+      "description":
+        "bacaan takbir sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/sujud.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/takbir.html"
+    }
+    {
+      "id": 58,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "tahiyat akhir",
+
+      "description":
+        "bacaan tahiyat akhir sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/tahiyat.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/tahiyat.png"
+    }
+    {
+      "id": 59,
+
+       "categories": [
+        "Dzuhur",
+        "Ashar",
+        "Isya"
+      ],
+
+      "title": "salam",
+
+      "description":
+        "bacaan salam sholat lengkap.",
+
+      "image":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/images/salam.png",
+
+      "content":
+        "https://raw.githubusercontent.com/ahdasurur/shalat-guide-content/refs/heads/main/html/salam.html"
     }
     
+
 
   ],
     
